@@ -299,3 +299,5 @@ changedetectionio.html_tools.elementpath_tostring: Copyright (c), 2018-2021, SIS
 Recognition of fantastic contributors to the project
 
 - Constantin Hong https://github.com/Constantin1489
+#   p r i c e s - a p p  
+ 
